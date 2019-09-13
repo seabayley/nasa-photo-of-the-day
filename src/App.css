@@ -1,46 +1,4 @@
-.media_wrapper {
-  width: 80vw;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-}
 
-.media_box {
-  display: flex;
-  justify-content: center;
-  background-color: black;
-}
-
-.media_info {
-  background-color: black;
-}
-
-.media_info h2 {
-  color: white;
-}
-
-.media_info p {
-  color: white;
-}
-
-.carousel_button {
-  position: relative;
-  bottom: 40%;
-  font-size: 5em;
-  outline: none;
-  border: none;
-  background-color: Transparent;
-  color: white;
-}
-
-.carousel_button--left {
-  right: 5%;
-}
-
-.carousel_button--right {
-  left: 5%;
-}
-
-h3 {
-  color: white;
+.info_container {
+    color: black;
 }
