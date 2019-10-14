@@ -61,6 +61,9 @@ Follow these steps for completing your project.
 
 **Step 3 - Fetching the Data**
 
+r0xlPKp5sbsJPh2cxpTryqkoyxmhX5zK2AEVyqyR
+'https://api.nasa.gov/planetary/apod?api_key=r0xlPKp5sbsJPh2cxpTryqkoyxmhX5zK2AEVyqyR&count=5'
+
 - In `App.js` (or where ever you wanted to fetch the data) add state for the data you'll be getting from NASA.
 - Add an effect hook to handle the API call side effect.
 - Go to the [NASA APOD API docs](https://api.nasa.gov/api.html#apod) and read through the docs to see how to make the API call.
